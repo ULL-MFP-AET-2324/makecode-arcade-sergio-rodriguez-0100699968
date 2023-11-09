@@ -1,6 +1,12 @@
 [![Work in MakeCode](https://classroom.github.com/assets/work-in-make-code-46eb539bcdc54ff4682c9f84a178d570a59fd821693cb33b02a3e5220eed4e48.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12777681&assignment_repo_type=AssignmentRepo)
 # chase-the-pizza ![Build status badge](https://github.com/arelia/chase-the-pizza/workflows/MakeCode/badge.svg)
 
+## Entrega
+
+- [Organización](https://github.com/ULL-MFP-AET-2324-alu0100699968)
+- [Classroom](https://classroom.github.com/classrooms/149103359-ull-mfp-aet-2324-alu0100699968)
+- [Assignment](https://classroom.github.com/a/tAW5Qg9H)
+
 ## Assignment
 Update the variable name so that it matches the food sprite image
 
